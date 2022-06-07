@@ -1,0 +1,113 @@
+/* * {
+  border: 1px solid red;
+} */
+.App {
+  text-align: center;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  background-color: rgb(255, 255, 255);
+}
+
+.cube-1 {
+  height: 8em;
+  width: 8em;
+  background-color: rgb(255, 255, 255);
+  line-height: 8em;
+  border-radius: 0.5em;
+  /* margin: 1em; */
+  margin-bottom: 8em;
+}
+.cube-2 {
+  height: 8em;
+  width: 8em;
+  background-color: rgb(255, 255, 255);
+  line-height: 8em;
+  border-radius: 0.5em;
+  /* margin: 1em; */
+
+
+}
+.cube-3 {
+  height: 35em;
+  /* width: 20em; */
+  /* background-color: rgb(178, 158, 243); */
+  border: 1px solid rgb(66, 66, 66);
+  line-height: 5em;
+  border-radius: 0.5em;
+  margin: 1em;
+ justify-content: center;
+  align-items: center;
+  /* font-family: 'Fredericka the Great'; */
+  font-size: x-large;
+  padding: 1em;
+  background-color: rgb(255, 255, 255);
+
+}
+
+.d-flex {
+  margin: 5em;
+}
+
+.Liz {
+  font-family: 'Fredericka the Great';
+  font-size: 80px;
+}
+.row {
+  padding: 0em;
+ 
+}
+
+h3 {
+  font-family: 'Zilla Slab Highlight';
+}
+
+p {
+  font-family: Helvetica;
+  line-height: normal;
+}
+
+span {
+  font-size: 50px;
+  font-family: "Helvetica";
+}
+
+.aboutLIZ {
+  padding-top:4em;
+  padding-left: 4em;
+  padding-right: 4em;
+  font-size: 30px;
+  text-align: left;
+  
+}
+
+.softEngine {
+  font-size: 66px;
+  font-family: 'Zilla Slab Highlight';
+}
+
+.homeHeading {
+  font-size: 40px;
+  font-family: 'Zilla Slab Highlight';
+  color: rgb(0, 0, 0);
+ 
+}
+
+
+
+a:link {
+  color: #f456ea;
+}
+
+a:visited {
+  color: #9147f1;
+}
+a:hover {
+  color: #2aff4e;
+}
+
+.script {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: larger;
+}
+
