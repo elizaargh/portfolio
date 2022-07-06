@@ -7,7 +7,7 @@ import mdGit from "./mdGit.png"
 import icon from "./react.png"
 import rails from "./rails.png"
 import js from "./js.png"
-import resume from "./ElizaNichollsResume_.pdf"
+import resume from "./ElizaResume_.pdf"
 
 
 
